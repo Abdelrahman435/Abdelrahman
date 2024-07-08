@@ -1,66 +1,40 @@
 # Abdelrahman435-tab-repositories
 # Personal Profile
 
-This repository contains my personal profile, showcasing my skills, projects, and experience.
+![Profile Views](https://komarev.com/ghpvc/?username=Abdelrahman435&style=flat-square)
 
-## About Me
+🌱 Having a keen interest in developing products that can make a beneficial impact all over the world  
+👨‍💻 As a software engineer, I am constantly learning and exploring new technologies to improve my skills.  
+🔗 Check out my portfolio at [GitHub](https://github.com/Abdelrahman435) to see some of the projects I've worked on.  
+☕ Fun Fact: I'm a coffee enthusiast, and my perfect day would start and end with a cup of coffee.
 
-I am a passionate and motivated software developer with expertise in [software engineer]. I love building innovative solutions and creating meaningful experiences for users. With a strong background in [Node.js], I am dedicated to continuous learning and staying up-to-date with the latest technologies.
+## Tech Stack
 
-## Skills
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
 
-- Programming Languages: [C, C++, python, java, JS]
-- Frameworks and Libraries: [Node.js, Express]
-- Databases: [Mysql, Mongoose DB]
+## Github Stats
 
-## Projects
+![Abdelrahman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdelrahman435&show_icons=true&theme=radical)
 
-### [Project: Parking Guidance System ](https://github.com/Abdelrahman435/final_project)
-
-Description: 
-1-Customer Module
-a. Enables customer to print ticket for entry station with entry id, plate number, transaction date
-b. Enables customer to pay in exit station for parking hours with entry id.
-2-Operator in Entry Station
-a. Enables operator to monitor free spots in Parking
-b. Enables operator to advise customer with free spot.
-3-Operator in Exit Station
-a. Enter ticket id to calculate total parking hours
-4- Admin Module
-a. Enables admin to add spots in parking.
-b. Enables admin to view total spots in parking.
-c. Enables admin to add / update / delete users with different roles
-d. Enables admin to view shifts report with payment
-e. Enables admin to view parked cars report
-
-Technologies Used: Java, files, Gui
-
-### [Project: Teachable ]((https://github.com/Abdelrahman435/IA-Project-2))
-
-Description: 
-• At first admin, instructors and students should login to the “LMS” dashboard.
-• Admin can manage courses (add, update, delete, list).
-• Admin can manage instructors (add, update, delete, list).
-• Admin can assign instructor(s) to courses.
-• Instructors can view the students who are enrolled in each of their given courses.
-• instructors can set grades to the students.
-• students can register available courses.
-• students can show the registered courses with grades.
-
-Technologies Used: frontend(react.js), backend(Node.js), database(Mysql)
-
-
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman435&layout=compact&theme=radical)
 
 ## Education
 
-- **Degree:** good, computers and artificial intelligence.
-- **University:** Helwan.
+- **Degree:**Very Good, Computers and Artificial Intelligence
+- **University:** Helwan
 
 ## Contact Me
 
-- Email: [ah0383723@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/abd-el-rahman-hassan-1ba1ab237]
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abd-el-rahman-hassan-1ba1ab237)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ah0383723@gmail.com)
 
 ## License
 
