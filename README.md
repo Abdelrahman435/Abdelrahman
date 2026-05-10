@@ -76,9 +76,11 @@ I believe in writing clean, maintainable code, following industry best practices
 
 <div align="center">
 
-![Abdelrahman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdelrahman435&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abdelrahman435&theme=tokyonight)](https://git.io/streak-stats)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman435&layout=compact&theme=tokyonight&hide_border=true)
+[![Abdelrahman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdelrahman435&show_icons=true&theme=tokyonight&bg_color=1a1b26&hide_border=true&text_color=8892b0)](https://github.com/Abdelrahman435)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman435&layout=compact&theme=tokyonight&bg_color=1a1b26&hide_border=true&text_color=8892b0)](https://github.com/Abdelrahman435)
 
 </div>
 
